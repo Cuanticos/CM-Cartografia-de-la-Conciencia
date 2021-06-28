@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "0216e72e8eaeeaa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "409c81af320b669a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cuanticamente/Angie/Neuroexistencialismo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2490c6c774c1ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d752cfe2a35532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb884c38b0bbfc1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d42a6d78c843aff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "14bd5d1fb4e910cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef3dc3917d7a1224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a0801da2cd81bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cuanticamente/Angie/Neuroexistencialismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "409c81af320b669a",
+  "lastOpenFiles": [
+    "Cuanticamente/Angie/Neuroexistencialismo.md",
+    "Cuanticamente/Angie/Computación cuántica.md",
+    "Cuanticamente/Angie/Inconsciente- Subconsciente.md",
+    "Cuanticamente/Angie/Inteligencia Artificial.md",
+    "Cuanticamente/Angie/NEUROCIENCIA.md",
+    "Cuanticamente/Angie/ORCH OR.md",
+    "Cuanticamente/Angie/Qualias.md",
+    "Cuanticamente/Angie/CONCIENCIA.md",
+    "Cuanticamente/Angie/CONSCIENCIA.md",
+    "Cuanticamente/Angie/Consciencia alterada.md"
+  ]
+}
