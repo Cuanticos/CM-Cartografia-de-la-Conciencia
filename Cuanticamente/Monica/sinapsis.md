@@ -1,0 +1,1 @@
+[[sinapsis electrica]] [[sinapsis quimica]]

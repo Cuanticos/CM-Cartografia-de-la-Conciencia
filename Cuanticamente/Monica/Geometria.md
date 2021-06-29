@@ -1,0 +1,8 @@
+[[cinta de moebius]]
+[[superficies de Riemann]]
+[[conjunto]] [[conjunto de Mandelbrot]]
+[[virtualidad]]
+[[microtubulos]]
+[[ondas cerebrales]] [[corteza sinaptica]]
+[[matematicas y fisica]]
+[[UNIVERSO]]
