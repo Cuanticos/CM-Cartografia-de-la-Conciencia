@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas Angie.md",
+            "file": "Alejandro Giraldo.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 327
   },
   "right": {
     "id": "14bd5d1fb4e910cd",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Angie.md",
+                "file": "Alejandro Giraldo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "680c394dcc86914d",
   "lastOpenFiles": [
-    "Notas Angie.md",
     "Untitled.md",
+    "Notas Angie.md",
     "Material/Multimedia/Herramientas.md",
     "Cuanticamente/Monica/microtubulos.md",
     "Cuanticamente/Monica/teoria de la relatividad de Einstein.md",
