@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas Angie.md",
-            "mode": "source"
+            "file": "Material/Multimedia/Herramientas.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 327
   },
   "right": {
     "id": "14bd5d1fb4e910cd",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Angie.md",
+                "file": "Material/Multimedia/Herramientas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "680c394dcc86914d",
   "lastOpenFiles": [
-    "Notas Angie.md",
-    "Untitled.md",
     "Material/Multimedia/Herramientas.md",
+    "Material/Templates/Acciones.md",
+    "Notas Angie.md",
+    "README.md",
+    "Untitled.md",
     "Cuanticamente/Monica/microtubulos.md",
     "Cuanticamente/Monica/teoria de la relatividad de Einstein.md",
     "Cuanticamente/Monica/The OR Orch Theory.md",
     "Cuanticamente/Monica/virtualidad.md",
-    "Cuanticamente/Monica/tiempo.md",
-    "Cuanticamente/Monica/matemáticas.md",
-    "Cuanticamente/Monica/intuición.md"
+    "Cuanticamente/Monica/tiempo.md"
   ]
 }
