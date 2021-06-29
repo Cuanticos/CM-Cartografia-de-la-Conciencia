@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "409c81af320b669a",
+        "id": "680c394dcc86914d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notas Angie.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas Angie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "409c81af320b669a",
+  "active": "680c394dcc86914d",
   "lastOpenFiles": [
+    "Untitled.md",
     "Material/Multimedia/Herramientas.md",
-    "Material/Multimedia/Bases de datos.md",
-    "Material/Multimedia/Untitled.md",
-    "Cuanticamente/Alejandro G/Reuniones/Apuntes.md",
-    "Cuanticamente/Alejandro G/Reuniones/18042021.md",
-    "Cuanticamente/Alejandro G/Reuniones/05292021.md",
-    "Cuanticamente/Alejandro G/Incertidumbre.md",
-    "Cuanticamente/Angie/Neuroexistencialismo.md",
-    "Cuanticamente/Angie/Computación cuántica.md",
-    "Cuanticamente/Angie/Inconsciente- Subconsciente.md"
+    "Cuanticamente/Monica/microtubulos.md",
+    "Cuanticamente/Monica/teoria de la relatividad de Einstein.md",
+    "Cuanticamente/Monica/The OR Orch Theory.md",
+    "Cuanticamente/Monica/virtualidad.md",
+    "Cuanticamente/Monica/tiempo.md",
+    "Cuanticamente/Monica/matemáticas.md",
+    "Cuanticamente/Monica/intuición.md",
+    "Cuanticamente/Monica/Interacciones fundamentales.md"
   ]
 }
