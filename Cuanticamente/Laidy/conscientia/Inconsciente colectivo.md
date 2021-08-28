@@ -1,0 +1,12 @@
+¿Qué es el inconsciente colectivo?
+
+El concepto de inconsciente colectivo fue propuesto por Carl Jung, fundador de la psicología analítica, a mediados del siglo XIX. A grandes rasgos hace referencia a una dimensión que está más allá de la consciencia y que es común a la experiencia de todos los seres humanos.
+A pesar de que el término de inconsciente colectivo ha sido objeto de muchas críticas, también se ha posicionado como una teoría que ofrece elementos importantes para comprender muchos fenómenos de lo humano. En este artículo veremos qué es el Inconsciente Colectivo y cómo ha impactado en la psicología psicodinámica.
+Dentro de la psicología tradicional se entiende que lo complementario al “individuo”, es “lo social”. No obstante, para la psicología analítica, lo complementario al individuo, no es precisamente lo social, sino lo colectivo, que no solo hace referencia al conjunto de personas que conforman una sociedad, sino que pone énfasis en lo que dichas personas tienen en común.
+De acuerdo con Jung, tal como el individuo tiene una dimensión psíquica que está más allá de la consciencia (el inconsciente); lo colectivo, en tanto que pertenece a una dimensión suprapersonal, también tiene su propio inconsciente. A diferencia del inconsciente individual, que se adquiere a través de las experiencias vividas, el inconsciente colectivo es una plataforma común, compuesta por arquetipos que modelan nuestra individualidad.
+
+En otras palabras, según Jung, hay una serie de experiencias psíquicas, imaginarios y símbolos, cuya existencia no viene dada por los aprendizajes adquiridos, sino que se trata de experiencias que compartimos todos los seres humanos, independientemente de nuestras historias de vida individuales.
+Se trata de experiencias que obedecen a otro orden, por eso, Jung define al inconsciente colectivo como un segundo sistema psíquico cuya naturaleza es universal e impersonal.
+Así como las características físicas de un individuo son más o menos comunes a las de todos los individuos que pertenecen a la especie humana, también la psique tiene características comunes que existen independientemente de la cultura y de la historia de las sociedades. Se trata de una instancia que trasciende la edad, la vida e incluso la muerte; es una experiencia que ha acompañado a la humanidad desde su existencia.
+[[Inconsciencia]]
+[[Arquetipos]]

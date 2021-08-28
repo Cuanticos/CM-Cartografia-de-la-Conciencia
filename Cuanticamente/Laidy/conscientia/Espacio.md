@@ -1,0 +1,6 @@
+Espacio, término que deriva del latín “Spatium” sirve para describir aquel lugar en el que está contenida la materia. Entiéndase como materia cualquier objeto que ocupe una superficie. Para poder estudiar este concepto lo veremos desde lo macro a lo micro.
+La aplicación del termino espacio es muy diversa, puede ser utilizado para señalar cualquier sitio con tal que este pueda ser percibido por los sentidos y contenga a la materia. En una línea de tiempo, el espacio es aquel intervalo que se genera entre dos momentos, “La carrera de autos dura un espacio de tiempo de dos horas aproximadamente”. En términos de geografía o ubicación, el espacio es aquel que se origina midiendo la distancia o capacidad de una superficie, “Este espacio es suficiente para construir la casa”, Cuando nos referimos al volumen “El espacio dentro de este contenedor es de 3 litros”.
+Como podrán ver, lo que define al espacio es su existencia, sin importar la unidad en la que esté representado, pudiendo ser de volumen, de área, peso o tiempo.
+[[Cuerpo]]
+[[Arriba y Abajo]]
+[[Gravedad]]

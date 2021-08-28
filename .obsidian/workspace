@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "680c394dcc86914d",
+        "id": "10ad4198631355f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Material/Multimedia/Herramientas.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327
+    "width": 263
   },
   "right": {
     "id": "14bd5d1fb4e910cd",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Multimedia/Herramientas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "680c394dcc86914d",
+  "active": "10ad4198631355f8",
   "lastOpenFiles": [
-    "Material/Multimedia/Herramientas.md",
-    "Material/Templates/Acciones.md",
-    "Notas Angie.md",
-    "README.md",
-    "Untitled.md",
-    "Cuanticamente/Monica/microtubulos.md",
-    "Cuanticamente/Monica/teoria de la relatividad de Einstein.md",
-    "Cuanticamente/Monica/The OR Orch Theory.md",
-    "Cuanticamente/Monica/virtualidad.md",
-    "Cuanticamente/Monica/tiempo.md"
+    "Material/Untitled.md",
+    "Cuanticamente/Jhony/Untitled.md",
+    "Cuanticamente/Jhony/Idea Filosófica.md",
+    "Cuanticamente/Jhony/Historia.md",
+    "Cuanticamente/Jhony/Idea Social.md",
+    "Cuanticamente/Jhony/Idea de la Neruociencia.md",
+    "Cuanticamente/Jhony/Idea Química.md",
+    "Cuanticamente/Jhony/Idea Biológica.md",
+    "Idea Literaria.md",
+    "Cuanticamente/Jhony/Idea Cuantica.md"
   ]
 }

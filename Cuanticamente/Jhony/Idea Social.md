@@ -1,0 +1,1 @@
+●	Idea social: (diccionario). https://dle.rae.es/conciencia 

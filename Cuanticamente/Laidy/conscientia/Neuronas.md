@@ -1,0 +1,31 @@
+La neurona es un tipo de célula que representa la unidad estructural y funcional del sistema nervioso. Su función consiste en transmitir información a través de impulsos nerviosos, desde un lugar del cuerpo hacia otro. Estos impulsos nerviosos son impulsos químicos y eléctricos.
+En las neuronas más grandes las velocidades de conducción del impulso nervioso (velocidad de conducción axonal) pueden alcanzar hasta 120 m/s.
+¿Cómo funciona? 
+Las neuronas forman una extensa red en el cuerpo por donde circula el impulso nervioso en forma de mensaje químico y eléctrico. Este impulso viaja siempre en el mismo sentido, es decir, llega a la neurona a través de las dendritas, se procesa en el soma y posteriormente se transmite al axón, el cual se comunica con las dendritas de la contigua.
+Las neuronas no están en contacto entre sí, existe un espacio de separación entre ellas denominado sinapsis o espacio sináptico. Cuando el impulso nervioso llega al extremo del axón se liberan neurotransmisores al espacio sináptico transformando la señal eléctrica en otra química que penetra en la dendrita de la neurona contigua. Se desencadena un impulso eléctrico en la neurona receptora y se vuelve a repetir el proceso con la que está contigua.
+Existen tres tipos de neuronas en el sistema nervioso (SN):
+Neurona sensorial: Son las responsables de la conversión de los estímulos externos del medio en estímulos internos.
+Neurona motora: Estimulan el movimiento, son las encargadas de transmitir información desde el SNC.
+Interneurona: De tamaño pequeño y axón corto se encuentra en el SNC. Son multipolares que conectan neuronas sensoriales con motoras. (son un puente entre neuronas motoras y sensoriales).
+
+Santiago Ramón y Cajal, EL HOMBRE QUE DIBUJO LAS NEURONAS:
+![[Pasted image 20210630221151.png]]Células piramidales con tinción de Golgi por Ramón y Cajal
+
+Ramón y Cajal quería saber algo que nadie comprendía realmente: ¿cómo viajaba un impulso neuronal a través del cerebro? Tenía que depender de sus observaciones y su razonamiento para contestar esta pregunta.
+La vida de Ramón y Cajal cambió en Madrid en 1887, cuando otro científico español le mostró la tinción de Golgi, una reacción química que coloreaba células cerebrales aleatorias. Este método, desarrollado por el científico italiano Camillo Golgi, permitía ver los detalles de una neurona completa sin la interferencia de sus vecinas. Ramón y Cajal refinó la técnica de Golgi y, con los detalles obtenidos de las imágenes más nítidas, revolucionó la neurociencia.En 1906 él y Golgi compartieron el Premio Nobel. Antes de ello, Ramón y Cajal escribió su doctrina de la neurona: la teoría de que las neuronas eran células cerebrales individuales, lo cual hizo que se diera cuenta de cómo estas células cerebrales individuales envían y reciben información; eso constituye la base de la neurociencia moderna.
+La teoría de Ramón y Cajal describía cómo fluía la información por el cerebro. Las neuronas eran unidades individuales que se comunicaban unas con otras de manera direccional a través del espacio entre ellas, al mandar información desde unos largos apéndices llamados axones hacia las dendritas ramificadas.No podía ver los huecos entre neuronas en su microscopio, pero los llamó sinapsis, y dijo que si pensamos, aprendemos y creamos recuerdos en el cerebro, entonces ese espacio pequeñísimo era muy probablemente la ubicación del lugar donde lo hacemos. Esto desafió la creencia de ese entonces de que la información se dispersaba en todas direcciones sobre una red neuronal.
+La aceptación de la teoría fue posible gracias al refinamiento que hizo Ramón y Cajal de la tinción de Golgi y la persistencia con la que compartió sus ideas con otros. En 1889, Ramón y Cajal llevó sus láminas y diapositivas a un congreso científico en Alemania. “Monta el microscopio con el portaobjetos y empuja a los grandes científicos de entonces para que vean, diciéndoles: ‘Miren, vean lo que puedo observar’”, dijo Janet Dubinsky, neurocientífica de la Universidad de Minnesota y quien escribió un capítulo de The Beautiful Brain. “¿Ahora ya creen que lo que digo acerca de que las neuronas son células individuales es cierto?”.
+![[Pasted image 20210630220650.png]]
+Albert von Kölliker, un influyente científico alemán, se sorprendió y comenzó a traducir el trabajo de Ramón y Cajal, mayoritariamente en español, al alemán. A partir de allí comenzó a extenderse la doctrina de la neurona, con lo que se remplazó la teoría reticular que entonces prevalecía. Sin embargo, Ramón y Cajal murió antes de que su teoría se comprobara.Tal vez una de las imágenes más icónicas de Ramón y Cajal es esta neurona piramidal de la corteza cerebral, la parte exterior del cerebro que procesa nuestros sentidos, controla la actividad motriz y nos ayuda a realizar funciones cerebrales superiores, como tomar decisiones. Algunas de estas neuronas son tan grandes que no se necesita un microscopio para verlas, a diferencia de la mayoría de las otras células cerebrales.
+Ramón y Cajal estudió las neuronas de Purkinje con fervor e ilustró su estructura arbórea en gran detalle, como en esta del cerebelo. Los axones, como el indicado con una “a” en el dibujo, pueden viajar grandes distancias en el organismo, algunos de ellos desde la médula espinal hasta los dedos de los pies, dijo la Dra. Dubinsky acerca de los desarrollos contemporáneos de su trabajo. Ramón y Cajal les siguió la pista a los axones tanto como pudo, dijo la doctora.
+![[Pasted image 20210630221004.png]]
+![[Pasted image 20210630221551.png]]
+Además de mostrar cómo fluye la información a través del cerebro, Ramón y Cajal señaló cómo se mueve por todo el cuerpo, permitiendo a los humanos hacer cosas como vomitar y toser. Cuando vomitamos, el irritado estómago manda una señal al nervio vago en el cerebro y luego a la médula espinal, que estimula a las neuronas que nos hacen contraer el estómago y tener arcadas. De manera similar, un cosquilleo en la parte posterior de tu garganta puede hacerte toser: la laringe manda una señal al nervio vago, luego al bulbo raquídeo y a la médula espinal, donde las neuronas envían la señal a los músculos de nuestro pecho y abdomen para que se contraigan.
+![[Pasted image 20210630221853.png]]
+[[Dendrítas]]
+[[Neurociencia]]
+
+
+
+
+

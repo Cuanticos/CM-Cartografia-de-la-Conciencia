@@ -1,0 +1,15 @@
+Cómo se representa la conciencia colectiva?
+
+Los seres humanos somos fundamentalmente sociales. Nuestras sociedades se caracterizan por grupos anidados jerárquicamente -tamaño y estructura-. En antropología cada grupo consta de aproximadamente tres subgrupos. Sin embargo, en gran medida falta una comprensión general de la dependencia estructural de los grupos en diferentes capas. 
+Al analizar en detalle los datos de redes sociales de alta precisión en Internet, podemos observar una estructura organizativa de una red múltiplex social completa y multirelacional, que indican que la organización jerárquica de la sociedad humana está profundamente anidada en la psicología humana, que nos lleva a pensar en autoconciencia, conciencia y conciencia colectiva. - https://www.nature.com/articles/srep06526 
+Pasos de la conciencia colectiva: 
+●	CONCIENCIA HISTÓRICA
+●	CONCIENCIA DE UNA ÉPOCA - PARADIGMA. 
+Al investigar el amplio espectro de las estructuras sociales humanas, podemos entender por qué algunas sociedades son más desiguales que otras. Modelo dinámicos, complejos y emergentes buscan entender por qué algunas sociedades humanas son más desiguales que otras.  https://www.santafe.edu/research/projects/dynamics-wealth-inequality .
+
+La autoorganización en sistemas adaptativos complejos que involucran la conciencia debe distinguirse como autoorganización auto-cultivada y auto-presentación de auto-organización. - https://www.sciencedirect.com/science/article/abs/pii/S0732118X16300162 
+
+Estos momento de época en los que la sociedad se caracteriza por la solidaridad y organización colectiva, parten de diversos factores: 1) la conciencia colectiva es extensa y fuerte, y se extiende a lo largo y ancho de la vida de las personas, controlándolas en detalle a través de diversos medios religiosos u otros medios tradicionales de sanción, 2) hace hincapié en la primacía de la sociedad sobre el individuo, 3) con la llegada de la Ilustración, la conciencia colectiva disminuyó, volviéndose menos extensa, más débil en su control sobre el individuo, secular y sancionada a través de la imposición de reglas generales en lugar de códigos específicos. 
+Dando paso al individualismo que remplazo la conciencia colectiva, en esta transición se observa la sustitución de sistemas represivos por sistemas restitutivos de derecho, que representan la vida y la sociedad como complejas relaciones de la conciencia colectiva. 
+El argumento de Durkheim es que una conciencia colectiva de toda la sociedad sólo puede mantener unida a una sociedad segmentaria; una sociedad más diferenciada debe mantenerse unida por una conciencia moral más diferenciada, cuyos focos (al menos en su opinión) serían los grupos ocupacionales y las normas especializadas que emanan de ellos. La conciencia colectiva se convierte en un "culto al individuo" difuso y abstracto que, como religión civil, proporciona principios y justificaciones finales, pero no puede soportar todo el peso de la cohesión social. Véase también anomia; la división del trabajo; densidad dinámica.
+IMAGEN: https://wiki.santafe.edu/images/6/61/Complexity-edu.jpg ECOSISTEMAS COMPLEJOS DE CONCIENCIA-EDUCACIÓN-

@@ -1,0 +1,3 @@
+          
+
+● **Idea literaria:** Los seres humanos están hechos de carne y hueso, una masa envuelta en un intrincado arreglo de tejido nervioso. Pertenecen al mundo físico de la materia y la causalidad, y sin embargo tienen una propiedad notable: de tanto en tanto están conscientes. La conciencia le proporciona a criaturas como nosotros una vida interior: un reino mental en el que pensamos y sentimos, percibimos imágenes y sonidos, sabores y olores, según los cuales hemos llegado a conocer el mundo que nos rodea.

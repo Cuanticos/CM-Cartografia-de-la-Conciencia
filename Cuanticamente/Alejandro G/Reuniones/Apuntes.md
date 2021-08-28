@@ -161,10 +161,29 @@ Acuerdos:
 
 - Tamaños y cantidad para encuadernación. 
 
-
+https://en.wikipedia.org/wiki/Collective_unconscious
 
 Ideas:
 - Hacer una hoja por cabeza.UFFF!. Ideal.
 
+https://blogs.scientificamerican.com/guest-blog/genetic-memory-how-we-know-things-we-never-learned/
 
+https://techbeacon.com/enterprise-it/top-5-open-source-tools-visualizing-ai-generated-data
 
+https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico
+
+https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+https://en.wikipedia.org/wiki/Collective_unconscious
+https://en.wikipedia.org/wiki/Subliminal_stimuli
+https://es.wikipedia.org/wiki/Mise_en_abyme
+
+https://es.wikipedia.org/wiki/Cuarto_de_Mary
+
+https://es.wikipedia.org/wiki/Inconsciente_colectivo
+https://www.lanacion.com.ar/lifestyle/ontologia-del-lenguaje-nid1673622/
+https://en.wikipedia.org/wiki/Artificial_consciousness
+
+https://en.wikipedia.org/wiki/Eliminative_materialism
+https://en.wikipedia.org/wiki/Introspection_illusion
+https://es.wikipedia.org/wiki/Inconsciente
+https://es.wikipedia.org/wiki/Hipnosis

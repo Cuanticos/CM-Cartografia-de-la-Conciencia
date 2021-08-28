@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "369bf3b2f5a179ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1022f599f0fc5358",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60b39afe393a285b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b9ecd263e11c77e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7387abbb2679d570",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a39de8bc2b94d372",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242
+  },
+  "right": {
+    "id": "1c9cd3cbc3af50c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5618a4564d57c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793e8954d216a985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Geometría.md",
+    "Neuronas.md",
+    "Orch OR.md",
+    "Untitled.md",
+    "subjetividad.md",
+    "Subconsciencia.md",
+    "Realidad.md",
+    "Qualias.md",
+    "Dendrítas.md",
+    "Neurociencia.md"
+  ]
+}
