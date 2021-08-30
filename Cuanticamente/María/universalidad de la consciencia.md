@@ -1,0 +1,1 @@
+Desde pequeñe, he tenido una relación problemática con la consciencia. En gran medida se ha dado porque percibo la realidad siempre con cierta distancia, como disociada. En este sentido, todo se puede llegar a sentir bastante lejano, frágil, con el riesgo de colapsar.

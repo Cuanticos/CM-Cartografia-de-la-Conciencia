@@ -25,7 +25,8 @@ Tiene como propósito....
 Integrantes:
 
 - Nombre, Redes, Portafolio, Etc...
--
+- María Jesús Maury (elle) (@majemaury). (Lima, Perú, 1997) Composición sonora con experiencia en gestión e investigación artística. Actualmente se desenvuelve en proyectos centrados en artes y medios digitales. Es parte de la gestión de la Comunidad Peruana de Música Nueva. Busca formar parte de proyectos que usen estrategias comunitarias e inmersivas para aportar al desarrollo cultural desde medios digitales.
+	- Portafolio: bit.ly/Portafolio-majemaury
 -
 -
 -

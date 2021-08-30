@@ -1,0 +1,1 @@
+Para Bonnett (2016), el sonido nunca es algo *concreto*, un objeto, sino *el rastro* que deja un acontecimiento cuando vibra a través de nosotres. La tarea de nuestra consciencia —en particular, nuestra memoria— es seguir ese trazo en difuminado, rastrear las huellas resonantes, hacer una cartografía de las ondas percibidas.
