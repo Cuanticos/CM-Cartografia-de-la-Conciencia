@@ -1,1 +1,3 @@
-[[sinapsis electrica]] [[sinapsis quimica]]
+KEYWORD:
+[[Sinapsis electrica]] 
+[[Sinapsis quimica]]

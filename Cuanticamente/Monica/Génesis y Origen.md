@@ -1,10 +1,13 @@
-[[tiempo]]
-[[memoria]]
-[[The OR Orch Theory]]
-[[CONCIENCIA]]
-[[tiempo] [espacio]]
+KEYWORDS:
+[[Tiempo]]
+[[Memoria]]
+[[Cuanticamente/Monica/The OR Orch Theory]]
+[[Cuanticamente/Angie/Conciencia]]
+[[Tiempo]] 
+[[Espacio]]
+[[Matemáticas]]
+[[Geometria]] 
+[[Fractal]] 
+[[Proporción aurea]] [[Universo]]
 
-
-se liga a lo que se considera un lenguaje divino [[matemáticas]]
-[[Geometria]] [fractal] [proporción aurea] 
-[[UNIVERSO]]
+Se liga a lo que se considera un lenguaje divino.

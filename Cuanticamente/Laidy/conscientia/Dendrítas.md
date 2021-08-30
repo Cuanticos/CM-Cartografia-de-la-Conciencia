@@ -25,5 +25,5 @@ En definitiva, las huellas moleculares que las experiencias vividas van dejando 
 Esta imagen es una reconstrucción de una dendrita (en rojo) y sus axones (de varios colores) en la parte externa del cerebro de un ratón. La dendrita tiene pequeñas espinas protuberantes que se pegan hacia afuera y reciben mensajes químicos que pasan desde el axón de otra neurona a través de la sinapsis, el espacio entre ellas, a través de los pequeños sacos blancos llamados vesículas. Hoy sabemos que las sinapsis tienen plasticidad; eso significa que pueden fortalecerse o debilitarse con el uso o la falta de este. Es lo que nos permite pensar y aprender.
 [[Cerebro]]
 [[Neuronas]]
-[[Neurociencia]]
-[[Microtubulos]]
+[[Cuanticamente/Laidy/conscientia/Neurociencia]]
+[[Cuanticamente/Laidy/conscientia/Microtubulos]]

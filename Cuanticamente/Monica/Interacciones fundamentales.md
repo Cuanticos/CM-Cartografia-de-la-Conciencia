@@ -1,7 +1,8 @@
+KEYWORDS:
 [[Fisica]]
 
 fuerza gravitatoria [[Gravedad]] supuesta particula [gravitón]
-fuerza Electromágnetica [[fotón]]
+fuerza Electromágnetica [[Fotón]]
 fuerza nuclear Fuerte [bosones z y w]
 fuerza nuclear debil [gluón]
 

@@ -1,14 +1,13 @@
+KEYWORDS:
 [[Interacciones fundamentales]]
-[[interaccion entre cuantica y realitividad]]
-[[eventos fisicos discretos]]
-[[tiempo]]
-
+[[Interaccion entre cuantica y realitividad]]
+[[Eventos fisicos discretos]]
+[[Tiempo]]
 [[Teoria estandar Cuántica]]
 [[Noticias hallazgos CERN]]
-
-[[matematicas y fisica]] [[HIPOTESIS]]
-
+[[Matematicas y fisica]] [[Hipótesis]]
 
 
-Se podria decir que la fisica estudia la[[virtualidad]] de los conceptos que den soporte al entendimiento de la realidad. [[Virtualiza las teorias]]
-[[UNIVERSO]] [[materia oscura]] [[energia oscura]]
+
+Se podria decir que la fisica estudia la[[Virtualidad]] de los conceptos que den soporte al entendimiento de la realidad. [[Virtualización de las teorias]]
+[[Universo]] [[Materia oscura]] [[Energia oscura]]

@@ -1,9 +1,18 @@
 
 
-1. Desglozar los documentos monolíticos y relacionarlos por temas generales.
-	1. Jhony
-2. Revisar como realizar agrupaciones y tags en obsidian: Pienso que puedo agrupar datos mediante tags como Neurociencias, Física, Historia, Matemáticas, Arte, Inteligencia Artificial,  Antropología, es decir taggear por disciplinas.
-3. Usar los videos de Cuanticamente y usar un AI para transformar eso datos en algo.
+1. Desglozar los documentos monolíticos:
+	1. Jhony    ■
+	2. Monica   ■
+	3. Angie 
+	4. Laidy
+	5. Alejandro
+2. Depurar ortografía y redacción, enlazar nodos. R// Surge de esta actividad el fenómno de que hay relaciones sin necesidad ni hilo conductivo, es decir nodos sin explorarse, inconexos. ¿Como solucionarlos? Ponerle un tag a lo curado.
+
+
+4. Revisar la idea de realizar uso de OpenAI y lo vuelvo un proyecto de código, lo usaría para "lectura de textos complejos" o mejores ejemplos.
+5. Alimentar la caja de herramientas con los referentes y explorar los algoritmos de Tensor Flow y demás.
+6. Revisar como realizar agrupaciones y tags en obsidian: Pienso que puedo agrupar datos mediante tags como Neurociencias, Física, Historia, Matemáticas, Arte, Inteligencia Artificial,  Antropología, es decir taggear por disciplinas.
+7. Usar los videos de Cuanticamente y usar un AI para transformar eso datos en algo.
 
 
 

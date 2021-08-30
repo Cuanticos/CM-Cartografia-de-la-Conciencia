@@ -5,8 +5,8 @@ Mente también es sinónimo de designio, pensamiento, propósito o voluntad. Por
 La palabra mente, como tal, proviene del latín mens, mentis.
 
 [[Cerebro]]
-[[CONCIENCIA]]
-[[CONSCIENCIA]]
+[[Cuanticamente/Laidy/conscientia/CONCIENCIA]]
+[[Cuanticamente/Laidy/conscientia/CONSCIENCIA]]
 [[Subconsciencia]]
 [[Inconsciencia]]
 [[Inconsciente colectivo]]

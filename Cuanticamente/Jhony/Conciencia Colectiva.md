@@ -1,4 +1,4 @@
-Cómo se representa la conciencia colectiva?
+# Cómo se representa la conciencia colectiva?
 
 Los seres humanos somos fundamentalmente sociales. Nuestras sociedades se caracterizan por grupos anidados jerárquicamente -tamaño y estructura-. En antropología cada grupo consta de aproximadamente tres subgrupos. Sin embargo, en gran medida falta una comprensión general de la dependencia estructural de los grupos en diferentes capas. 
 Al analizar en detalle los datos de redes sociales de alta precisión en Internet, podemos observar una estructura organizativa de una red múltiplex social completa y multirelacional, que indican que la organización jerárquica de la sociedad humana está profundamente anidada en la psicología humana, que nos lleva a pensar en autoconciencia, conciencia y conciencia colectiva. - https://www.nature.com/articles/srep06526 

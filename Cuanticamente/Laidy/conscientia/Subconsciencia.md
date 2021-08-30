@@ -1,4 +1,4 @@
 Es emotiva, afectiva, emocional es ilimitada tiene acceso a todas las memorias
-[[Memoria]]
+[[Cuanticamente/Laidy/conscientia/Memoria]]
 Puede ser considerada como "Preconsciente" segun esquema de Freud 
-[[CONSCIENCIA]]
+[[Cuanticamente/Laidy/conscientia/CONSCIENCIA]]

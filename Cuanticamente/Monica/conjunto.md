@@ -1,5 +1,6 @@
-[[conjunto de Mandelbrot]]
-[[UNIVERSO]]
+KEYWORDS: 
+[[Conjunto de Mandelbrot]]
+[[Universo]] 
 [[Geometria]]
 [[Interacciones fundamentales]]
-[[microtubulos]]
+[[Microtubulos]]

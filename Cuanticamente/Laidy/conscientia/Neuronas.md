@@ -23,7 +23,7 @@ Ramón y Cajal estudió las neuronas de Purkinje con fervor e ilustró su estruc
 Además de mostrar cómo fluye la información a través del cerebro, Ramón y Cajal señaló cómo se mueve por todo el cuerpo, permitiendo a los humanos hacer cosas como vomitar y toser. Cuando vomitamos, el irritado estómago manda una señal al nervio vago en el cerebro y luego a la médula espinal, que estimula a las neuronas que nos hacen contraer el estómago y tener arcadas. De manera similar, un cosquilleo en la parte posterior de tu garganta puede hacerte toser: la laringe manda una señal al nervio vago, luego al bulbo raquídeo y a la médula espinal, donde las neuronas envían la señal a los músculos de nuestro pecho y abdomen para que se contraigan.
 ![[Pasted image 20210630221853.png]]
 [[Dendrítas]]
-[[Neurociencia]]
+[[Cuanticamente/Laidy/conscientia/Neurociencia]]
 
 
 

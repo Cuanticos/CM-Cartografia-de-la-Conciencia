@@ -82,7 +82,7 @@ En el idioma español tenemos las palabras.
 ¿ Qué responde una inteligencia artficial sobre la conciencia?
 
 
-En el idioma español existe la diferenciación entre [[ROOT/Cuanticamente/Conciencia]] y [[Consciencia]]. 
+En el idioma español existe la diferenciación entre [[ROOT/Cuanticamente/Conciencia]] y [[Cuanticamente/Alejandro G/Consciencia]]. 
 
 Se plantea la pregunta desde los [[Estados alterados de conciencia]]
 

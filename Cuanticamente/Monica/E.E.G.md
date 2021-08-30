@@ -1,10 +1,13 @@
-[[ondas cerebrales]] [[neuronas]]]
 
-[[sinapsis electrica]] [electroencefalograma]
-(https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875)
+# EEG
 
-[[CONSCIOUSNESS]] conciencia e inconciencia [estados alterados]
 
-[[cerebro humano]] [[conexiónneuronal]] [[neurociencias]]
 
-uso de una de las [[Interacciones fundamentales]] [[fuerza electromagnetica]] [[fotón]]
+KEYWORDS: [[Ondas cerebrales]] [[Neuronas]] [[Sinapsis electrica]] [[Conciencia y una mirada física]] [[Cuanticamente/Angie/Conciencia]][[Inconciencia]] [[Estados alterados]]
+[[Cerebro humano]] [[Conexión neuronal]] [[Neurociencias]][[Interacciones fundamentales]] [[Fuerza electromagnetica]] [[Fotón]]
+
+
+
+Lecturas:
+[Electroencefalograma](https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875)
+

@@ -4,7 +4,7 @@ Son tubos largos y relativamente rígidos (Figuras 1 y 3). Sus paredes están fo
 Imagen tomada con un microscopio electrónico de transmisión que muestra microtúbulos en el interior de una dendrita (prolongación de una neurona). Los microtúbulos se disponen paralelos al eje mayor de la dendrita.
 ![[Pasted image 20210630211158.png]]
 [[Cuerpo]]
-[[Neurociencia]]
+[[Cuanticamente/Laidy/conscientia/Neurociencia]]
 [[Neuronas]]
 [[Cerebro]]
 [[Dendrítas]]

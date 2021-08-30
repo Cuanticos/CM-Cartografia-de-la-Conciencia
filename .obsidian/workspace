@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "10ad4198631355f8",
+        "id": "19d9084314fddcd3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cuanticamente/Angie/Computación cuántica.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 416
   },
   "right": {
     "id": "14bd5d1fb4e910cd",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cuanticamente/Angie/Computación cuántica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10ad4198631355f8",
+  "active": "19d9084314fddcd3",
   "lastOpenFiles": [
-    "Material/Untitled.md",
-    "Cuanticamente/Jhony/Untitled.md",
-    "Cuanticamente/Jhony/Idea Filosófica.md",
-    "Cuanticamente/Jhony/Historia.md",
-    "Cuanticamente/Jhony/Idea Social.md",
-    "Cuanticamente/Jhony/Idea de la Neruociencia.md",
-    "Cuanticamente/Jhony/Idea Química.md",
-    "Cuanticamente/Jhony/Idea Biológica.md",
-    "Idea Literaria.md",
-    "Cuanticamente/Jhony/Idea Cuantica.md"
+    "Cuanticamente/Angie/Computación cuántica.md",
+    "Cuanticamente/Jhony/Conciencia Colectiva.md",
+    "Cuanticamente/Jhony/Conciencia, reducción y emergencia.md",
+    "Cuanticamente/Jhony/Autoconciencia.md",
+    "Cuanticamente/Angie/The OR Orch Theory.md",
+    "Cuanticamente/Angie/Subconsiente.md",
+    "Cuanticamente/Angie/Qualias.md",
+    "Cuanticamente/Angie/Neuroexistencialismo.md",
+    "Cuanticamente/Angie/Neurociencia.md",
+    "Cuanticamente/Angie/Inconsciente - Subconsciente.md"
   ]
 }

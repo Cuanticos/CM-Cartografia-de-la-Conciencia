@@ -2,15 +2,10 @@ ELEMENTOS PARA CONTRUIR MEMORIA
 
 SU DEFINICION: (https://www.merriam-webster.com/dictionary/memory)
 
-TIEMPO-ESPACIO: segun [[The OR Orch Theory]]
+TIEMPO-ESPACIO: segun [[Cuanticamente/Monica/The OR Orch Theory]]
 
-ILUSION DEL[[ tiempo]] [[neurociencias] 
-
-[[Fisica e ingenieria (sci fi)]] [[cognición]]
-
-[[fenómeno]][[neurociencias]][[intuición]][[Génesis y Origen]]
-
-[[tiempo] [espacio]]
-
-[[lenguajes]] 
+ILUSION DEL[[ Tiempo]]
+[[Fisica e ingenieria (sci fi)]] [[Cognición]]
+[[Fenómeno]][[Neurociencias]][[Intuición]][[Génesis y Origen]]
+[[Lenguajes]] 
 
