@@ -7,11 +7,8 @@
         "id": "19d9084314fddcd3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cuanticamente/Angie/Computación cuántica.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cuanticamente/Angie/Computación cuántica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "19d9084314fddcd3",
   "lastOpenFiles": [
+    "Cuanticamente/María/1-empezar-aqui.md",
+    "Cuanticamente/María/referencias.md",
+    "Cuanticamente/María/resonancia.md",
+    "Cuanticamente/María/universalidad de la consciencia.md",
+    "Cuanticamente/María/manifiesto colapsar.md",
     "Cuanticamente/Angie/Computación cuántica.md",
     "Cuanticamente/Jhony/Conciencia Colectiva.md",
     "Cuanticamente/Jhony/Conciencia, reducción y emergencia.md",
     "Cuanticamente/Jhony/Autoconciencia.md",
-    "Cuanticamente/Angie/The OR Orch Theory.md",
-    "Cuanticamente/Angie/Subconsiente.md",
-    "Cuanticamente/Angie/Qualias.md",
-    "Cuanticamente/Angie/Neuroexistencialismo.md",
-    "Cuanticamente/Angie/Neurociencia.md",
-    "Cuanticamente/Angie/Inconsciente - Subconsciente.md"
+    "Cuanticamente/Angie/The OR Orch Theory.md"
   ]
 }
