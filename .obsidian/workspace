@@ -7,8 +7,11 @@
         "id": "19d9084314fddcd3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Material/Multimedia/Herramientas.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416
+    "width": 377
   },
   "right": {
     "id": "14bd5d1fb4e910cd",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Material/Multimedia/Herramientas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "19d9084314fddcd3",
   "lastOpenFiles": [
+    "Material/Multimedia/Herramientas.md",
+    "README.md",
+    "Cuanticamente/Monica/Geometria.md",
+    "Cuanticamente/Alejandro G/Reuniones/Monica.md",
+    "Cuanticamente/Alejandro G/Reuniones/Angie.md",
     "Cuanticamente/María/1-empezar-aqui.md",
     "Cuanticamente/María/referencias.md",
     "Cuanticamente/María/resonancia.md",
     "Cuanticamente/María/universalidad de la consciencia.md",
-    "Cuanticamente/María/manifiesto colapsar.md",
-    "Cuanticamente/Angie/Computación cuántica.md",
-    "Cuanticamente/Jhony/Conciencia Colectiva.md",
-    "Cuanticamente/Jhony/Conciencia, reducción y emergencia.md",
-    "Cuanticamente/Jhony/Autoconciencia.md",
-    "Cuanticamente/Angie/The OR Orch Theory.md"
+    "Cuanticamente/María/manifiesto colapsar.md"
   ]
 }
