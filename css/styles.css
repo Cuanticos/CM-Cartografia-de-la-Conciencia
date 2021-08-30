@@ -4,7 +4,7 @@
 * {
     margin: 0;
     padding: 0;
-
+    overflow: hidden;
     font-family:'Kanit', 'sans-serif';
 }
 
@@ -97,4 +97,5 @@ a {
 
 .list-names{
     color: white;
+    z-index: 1;
 }
